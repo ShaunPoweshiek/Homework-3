@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\Homework 3\Tutor\bin\Debug\Tutor.exe.config
+C:\Users\Owner\source\repos\Homework 3\Tutor\bin\Debug\Tutor.exe
+C:\Users\Owner\source\repos\Homework 3\Tutor\bin\Debug\Tutor.pdb
+C:\Users\Owner\source\repos\Homework 3\Tutor\obj\Debug\Tutor.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Homework 3\Tutor\obj\Debug\Tutor.exe
+C:\Users\Owner\source\repos\Homework 3\Tutor\obj\Debug\Tutor.pdb

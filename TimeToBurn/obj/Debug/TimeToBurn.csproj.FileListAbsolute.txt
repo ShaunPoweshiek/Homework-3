@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\Homework 3\TimeToBurn\bin\Debug\TimeToBurn.exe.config
+C:\Users\Owner\source\repos\Homework 3\TimeToBurn\bin\Debug\TimeToBurn.exe
+C:\Users\Owner\source\repos\Homework 3\TimeToBurn\bin\Debug\TimeToBurn.pdb
+C:\Users\Owner\source\repos\Homework 3\TimeToBurn\obj\Debug\TimeToBurn.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Homework 3\TimeToBurn\obj\Debug\TimeToBurn.exe
+C:\Users\Owner\source\repos\Homework 3\TimeToBurn\obj\Debug\TimeToBurn.pdb

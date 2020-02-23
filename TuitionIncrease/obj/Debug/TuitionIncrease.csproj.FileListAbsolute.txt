@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\Homework 3\TuitionIncrease\bin\Debug\TuitionIncrease.exe.config
+C:\Users\Owner\source\repos\Homework 3\TuitionIncrease\bin\Debug\TuitionIncrease.exe
+C:\Users\Owner\source\repos\Homework 3\TuitionIncrease\bin\Debug\TuitionIncrease.pdb
+C:\Users\Owner\source\repos\Homework 3\TuitionIncrease\obj\Debug\TuitionIncrease.exe
+C:\Users\Owner\source\repos\Homework 3\TuitionIncrease\obj\Debug\TuitionIncrease.pdb
+C:\Users\Owner\source\repos\Homework 3\TuitionIncrease\obj\Debug\TuitionIncrease.csprojAssemblyReference.cache
